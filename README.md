@@ -13,10 +13,13 @@ Tools: Neo4j graph database, Cypher queries, Python, Pandas
 
 Input: 
 
-<img align = "right" src="/images/pic1.png" width="488" height="375" hspace="20" vspace="20">
+<p float="left">
+
+  <img  src="/images/pic1.png" width="488" height="375" hspace="20" vspace="20">
 
 
-<img align = "left" src="/images/pic2.png" width="490" height="258" hspace="20" vspace="20">
+  <img  src="/images/pic2.png" width="490" height="258" hspace="20" vspace="20">
+</p>
 
 
 
