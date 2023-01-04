@@ -2,7 +2,7 @@
 
 In this project, we will perform the following:
 
-* Query CSSR chapter and disease data into the neo4j graph database (each source node represents the chapter and the children are the CCSR categories under the chapter)
+* Query CSSR chapter and disease data into the neo4j graph database (each source node represents the chapter and the children are the CCSR categories under the chapter). The descriptions are attached to the property of each node. 
 
 * Retrieve chapter and disease data from the graph database and transform into pandas dataframe
 
