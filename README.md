@@ -26,3 +26,10 @@ Input:
 
 
 Output: 
+
+<p float="left">
+  <img  src="/images/graph (5) (1).png" width="828" height="782" hspace="20" vspace="20">
+  
+  
+  
+ </p>
